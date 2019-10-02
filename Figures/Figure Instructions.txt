@@ -1,0 +1,1 @@
+All Matlab / Python figures should be the .eps file type. The only things that should be jpgs or pngs are photographs.
